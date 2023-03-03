@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3e49763a0e2b947861f6d7c82dda69, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  fire_delay: 0.6
+  damage: 32
+  bullet: {fileID: 8519195228178097278, guid: 6ecd0336c4311254f96c2343927f5574, type: 3}
+  sounds:
+  - {fileID: 8300000, guid: b4087f5072e97bb4eb88461d8395b5b0, type: 3}
+  - {fileID: 8300000, guid: 0108ecc1a62627b48bafabfe9abdf1a9, type: 3}
+  - {fileID: 8300000, guid: 675fda31b14b7e648a39c48a3656ca46, type: 3}
+  - {fileID: 8300000, guid: 05890ef447edf764f94df90ea7de4cee, type: 3}
+  - {fileID: 8300000, guid: 6f00c477bab927c499e816a4b68acba3, type: 3}
+  - {fileID: 8300000, guid: 5a3817e501737dc469011372f7d7e686, type: 3}
+  - {fileID: 8300000, guid: 41c10f991a51de84b8c7f5a58f66bb1f, type: 3}
+  scale: {x: 3.5, y: 3.5, z: 1}
+  gun_texture: {fileID: 21300000, guid: aa3a58165c77c5a48b17c4821f8aa825, type: 3}
+  value: 2

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0415ab65b8648bc409ba68330dc9525f, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  is_boss: 0
+  enemies:
+  - {fileID: 5767713832597632894, guid: 891bb5a2f55924d4ba1b42e7cc5b871b, type: 3}
+  - {fileID: 5767713832597632894, guid: 891bb5a2f55924d4ba1b42e7cc5b871b, type: 3}
+  - {fileID: 5767713832597632894, guid: 0036d347a2663e74cbe998d46aef3baa, type: 3}
+  damage_increase_per_wave: 1.5
